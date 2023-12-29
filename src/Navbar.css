@@ -1,0 +1,27 @@
+.nav{
+    background-color:white; /* 31304D;*/
+    justify-content: space-between;
+    margin: 0;
+    padding-left: 3%;
+    padding-right: 3%;
+    display: flex;
+    border-bottom: solid 1px #cecece ;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    gap: 2rem;
+}
+
+.nav a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #31304D;
+}
+
+.nav a:hover{
+    text-decoration: none;
+    color: #cc4e69;
+}
